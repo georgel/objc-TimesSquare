@@ -48,7 +48,7 @@
 
 + (CGFloat)cellHeight;
 {
-    return 46.0f;
+    return 40.0f;
 }
 
 - (NSUInteger)daysInWeek;
